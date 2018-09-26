@@ -4,7 +4,12 @@ Welcome, traveler !
   
 A clean & quiet residential appartment room for 1-2 persons in Gangnam area, built in 2015.  
 This is where I live when I host no visitor and I usually keep the room as clean as possible.
+
+I hope you enjoy your stay.  
+Thanks!  
   
+*\* NO CLEANING DURING THE STAY*
+
 -----
   
 ### > Check-in & Check-out
@@ -26,3 +31,22 @@ This is where I live when I host no visitor and I usually keep the room as clean
 - respect other residents
 - do not break anything
 - do not smoke in the building
+- do not jump on the bed
+  
+-----
+  
+### > FAQ
+  
+- Transpotation
+  - How to get there?
+  - How to go to Gangnam station?
+- Facilities
+  - Doorlock
+  - Lights
+  - Air conditioner
+  - Floor heating system
+  - Washing machine
+  - Trash
+- Information
+  - Where can I buy things I need?
+  - What and where should I eat?
