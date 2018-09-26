@@ -1,1 +1,3 @@
 # AirBnB
+
+Welcome, traveler !
