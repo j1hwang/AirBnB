@@ -7,13 +7,13 @@ This is where I live when I host no visitor and I usually keep the room as clean
   
 -----
   
-### :white_check_mark: Check-in & Check-out
+### * Check-in & Check-out
 - Self check-in/out 
 - Check-in: 14:00
 - Check-out: 12:00
 - Early check-in or late check-out is possible when permitted
   
-### :house: Facilities
+### * Facilities
 - 1 bed (120x200cm), 1 sofa bed
 - wi-fi, television
 - air conditioner, floor heating system
@@ -22,7 +22,7 @@ This is where I live when I host no visitor and I usually keep the room as clean
 - hot shower, shampoo, body wash, towels, hair-dryer
 - rooftop (public area for night view or smoking)
   
-### :heavy_exclamation_mark: Rules
+### * Rules
 - respect other residents
 - do not break anything
 - do not smoke in the building
