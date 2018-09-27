@@ -28,10 +28,11 @@ Thanks!
 - rooftop (public area for night view)
   
 ### > Rules
-- respect other residents
-- do not break anything
-- do not smoke in the building
-- do not jump on the bed
+- RESPECT other residents
+- NO shoes in the room
+- Do NOT break anything
+- Do NOT smoke in the building
+- Do NOT jump on the bed
   
 -----
   
