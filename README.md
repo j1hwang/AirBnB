@@ -20,7 +20,7 @@ Thanks!
   
 ### > Facilities
 - 1 bed (120x200cm), 1 sofa bed
-- wi-fi, television
+- wi-fi
 - air conditioner, floor heating system
 - refrigerator, microwave, kitchen utensils
 - washing machine, iron, ironing board
