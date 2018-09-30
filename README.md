@@ -43,7 +43,7 @@ Thanks!
   - How to go to Gangnam station?
 - Facilities
   - Doorlock
-  - Lights
+  - [Lights](lights.md)
   - Air conditioner
   - Floor heating system
   - Washing machine
