@@ -1,26 +1,19 @@
-## A Clean & Quiet Apartment - Quick Guide
+## A Clean & Quiet Apartment
 
 ### *환영합니다!*
 
-
-### *지켜주세요*
-- **Do NOT make noises** (respect other residents!)
-- **Do NOT wear shoes** in the room
-- **Do NOT smoke** in the building
-
-
-## FAQ
+- 아파트 출입구 및 집 현관문 비밀번호는 체크인 당일에 안내드리겠습니다.
   
-- Transpotation
-  - How to get there?
-  - How to go to Gangnam station?
-- Facilities
-  - Doorlock
-  - [Lights](lights.md)
-  - Air conditioner
-  - Floor heating system
-  - Washing machine
-  - Trash
-- Information
-  - Where can I buy things I need?
-  - What and where should I eat?
+  - 현관문은 지문 입력부를 살짝 올렸다 내리면 비밀번호 입력이 가능합니다.
+  - 도어락 알람이 울릴 경우 `강제잠금해제`를 해주세요.
+- 옷장은 맨 왼쪽칸을 사용해주세요.
+- 냉장고의 물과 싱크대 위 찬장의 오일, 소금, 후추는 사용가능합니다.
+- 쓰레기통은 싱크대 아래에 있습니다.
+- 분리수거 물품들은 현관의 쇼핑백에 넣어주세요. 내용물은 미리 버려주시면 감사하겠습니다.
+- 방이 쉽게 습해집니다. 샤워하실 때는 환풍기를 켜주세요.
+  - 나가실 때 제습기를 타이머를 맞춰서 틀고 나가시는 것도 좋습니다. (2시간 정도)
+
+### *지켜주세요 :)*
+- **실내에서 금연해주세요.**
+  
+- **과도한 소음을 자제해주세요.**
