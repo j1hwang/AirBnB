@@ -23,9 +23,9 @@
   (with the timer set for 2 hours)
   
 - In this country, we should separate trash into many types.
-  - recyclable materials (plastic, glass, paper) : put them in the bag in the room entrance.
-  - general waste : put them in the bin under the sink.
-  - food waste : put them in the blue plastic bag and dump it on the dumpsite.
+  - *recyclable materials* (plastic, glass, paper) : put them in the bag in the room entrance.
+  - *general waste* : put them in the bin under the sink.
+  - *food waste* : put them in the blue plastic bag and dump it on the dumpsite.
   - New trash bags are in the drawer.
   
   
@@ -35,7 +35,7 @@
 - **Do NOT smoke** in the building
   
   
-## FAQ
+### *FAQ*
   
 - How to get there from the ICN airport?
   - Take a bus **#6009**.
