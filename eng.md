@@ -1,5 +1,11 @@
 ## A Clean & Quiet Apartment - Quick Guide
 
+### *Address*
+- Type one of the address below into Google Map.  
+  - Seocho-dong 1344-7, Seocho-gu, Seoul, 06727  
+  
+  - 서울특별시 서초구 서초동 1344-7 동아아파트 201호
+
 ### *Welcome!*
   
 - Passwords (for apartment and room) will be given to you on your check-in day.
