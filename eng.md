@@ -45,7 +45,7 @@
   
 - How to get there from the ICN airport?
   - Take a bus **#6009**.
-  - you can buy a ticket outside the arrival gate and wait on the **4A**. 
+  - you can buy a ticket outside the arrival gate and wait at **4A-3**. 
   - Get off the bus at **Bang Bang Sagori(crossroads)** and walk to the house.
 - How to go to Gangnam station from home?
   - You can take a **bus (Seocho11, 340)** near the house, or get there by walk.
